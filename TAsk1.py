@@ -1,3 +1,17 @@
+'''
+
+APM:
+
+
+Salam daryaft shod
+
+
+
+
+'''
+
+
+
 import paho.mqtt_client as mqtt
 import RPi.GPIO as GPIO
 import Adafruiy_DHT
